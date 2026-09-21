@@ -365,6 +365,7 @@ The resulting information powers AstralCloud's service maps and dependency views
 
 Because this processing is asynchronous, traces can remain searchable even while service maps are stale.
 
+
 ---
 
 ## 5.5 `archive-worker`
